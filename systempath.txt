@@ -1,0 +1,10 @@
+set path=%path%;C:\python27
+
+set path=%path%;"E:\Program Files\OpenBabel-2.4.1"
+
+
+
+C:/Program Files (x86)/MGLTools-1.5.6/python.exe
+set path=%path%;"D:\Program Files (x86)\PyMOL\PyMOL"
+set PYMOL_PATH=%PYMOL_PATH%;"D:\Program Files (x86)\PyMOL\PyMOL"
+C:\Program Files (x86)\OpenBabel-2.3.2

@@ -1,0 +1,1 @@
+babel D:\new\*.pdb D:\new2\.mol2 -m -h 

@@ -1,0 +1,8 @@
+babel Aproved.sdf F:\mol2\.mol2 -m -h --append "GENERIC_NAME" 
+
+
+GENERIC_NAME is a propertz in the sdf file
+
+
+
+o adapt a command line for babel into one for obabel you can usually simply put -O in front of the output filename.
